@@ -1,30 +1,12 @@
-Plugin Builder Results
+the plugin was developed for QGIS 3.28 . if issues persist, we recommend using this specific version for now.
 
-Your plugin NDMVRP was created in:
-    D:/qgis/pluginNDM\ndmvrp
+the plugin user guide is provided in the repository as a pdf file.
 
-Your QGIS plugin directory is located at:
-    C:/Users/sidmp/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
+Further instruction for managing network files is given under the file "Instructions regarding Network.docx" provided in the repository.
 
-What's Next:
+thank you for tesing our plugin.
 
-  * Copy the entire directory containing your new plugin to the QGIS plugin
-    directory
 
-  * Compile the resources file using pyrcc5
-
-  * Run the tests (``make test``)
-
-  * Test the plugin by enabling it in the QGIS plugin manager
-
-  * Customize it by editing the implementation file: ``NDMVRP.py``
-
-  * Create your own custom icon, replacing the default icon.png
-
-  * Modify your user interface by opening NDMVRP_dialog_base.ui in Qt Designer
-
-  * You can use the Makefile to compile your Ui and resource files when
-    you make changes. This requires GNU make (gmake)
 
 For more information, see the PyQGIS Developer Cookbook at:
 http://www.qgis.org/pyqgis-cookbook/index.html
