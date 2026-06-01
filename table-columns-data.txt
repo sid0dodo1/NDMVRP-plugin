@@ -1,0 +1,2 @@
+make list from following
+Vehicle Type, Description, Weight Capacity, Volume Capacity, Vehicle Network Compatibility (OSM), Need for return to the starting Depot, Remarks / Comments	p-value used for generating Test Cases
