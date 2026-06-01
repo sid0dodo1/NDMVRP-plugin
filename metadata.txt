@@ -8,10 +8,11 @@ qgisMinimumVersion=3.0
 description=this plugin creates Vehicle Routing strategies for Nodal Disaster Management bodies
 version=1.0
 author=AEM
-email=sid.mpadhyay@gmail.com
+email=NDMVRP@gmail.com
 about=this plugin is to create VRP strategies for pickup delivery and routing strategies in disaster management scenarios
 tracker=https://github.com/sid0dodo1/NdmVRP-problems
 repository=https://github.com/sid0dodo1/NdmVRP-problems
+license=GPL-2.0
 
 # End of mandatory metadata
 
